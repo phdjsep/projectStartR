@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600973196586.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DA8C9E17",
+    "lastKnownWriteTime" : 1579892673,
+    "last_content_update" : 1579892673,
+    "path" : "~/Documents/engineering/r/projectStartR/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "cursorPosition" : "2,189",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
